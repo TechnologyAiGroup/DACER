@@ -38,7 +38,7 @@ For Transfer_DACER, please go to the corresponding folder and excute
 ```
 matlab Transfer_DACER.m
 ```
-The main modifiable parameters include The bit number 'n', structure size 'nXOR', noise level 'sigmaNoise' of the PUF, the source domain training data size `nTrS` and the target domain training data size `nTrS_t`.
+The main modifiable parameters include The bit number `n`, structure size `nXOR`, noise level `sigmaNoise` of the PUF, the source domain training data size `nTrS` and the target domain training data size `nTrS_t`.
 
 Due to the randomness of the CMA-ES algorithm, please run the above attack code multiple times to ensure success.
 
